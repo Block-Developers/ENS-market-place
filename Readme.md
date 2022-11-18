@@ -17,8 +17,8 @@ List and sell your ens domains
 $ npm install
 ```
 
-### 3. Deploy contracts to Ropsten and Run dapp
-- Input your private key and ropsten RPC in .env file
+### 3. Deploy contracts to Goerli and Run dapp
+- Input your private key and goerli RPC in .env file
 ```
 $ npx hardhat compile
 ```
