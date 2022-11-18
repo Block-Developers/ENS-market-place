@@ -23,7 +23,7 @@ $ npm install
 $ npx hardhat compile
 ```
 ```
-$ npm run deploy-ropsten
+$ npm run deploy-goerli
 ```
 ```
 $ npm start
